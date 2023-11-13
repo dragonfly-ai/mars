@@ -1,0 +1,22 @@
+Weapons:
+ - relative position and orientation
+ - optional sprite
+ - types
+ - bursts
+ - damage
+ - mods
+ - technology including round types
+ - round types
+ - colors
+
+shields
+
+Mods
+Capacity to freeze
+
+Technology
+
+
+Turrets
+  - must equip multiple mounts and multiple weapons.
+  - more natural relationship between bases/wielders and turrets
